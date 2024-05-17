@@ -54,6 +54,7 @@ These are the 3 different models I chose;
 
 # Feature Importance
    These are the important features form the tuned random forest model. 
+   <img width="755" alt="Imp_Features2" src="https://github.com/knowl01/Predicting-Potential-Customers/assets/135021827/d3e399c6-43a4-43d5-9c48-4aa2e0abd5c3">
 
    
 # Model Performance
