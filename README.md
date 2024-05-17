@@ -72,5 +72,13 @@ These are the 3 different models I chose;
 # Model Performance
 The Tuned Random Forest Model performed well compared to all the other models.
 
+**Confusion matrix on train set**
+
+<img width="453" alt="MAtrix_train2" src="https://github.com/knowl01/Predicting-Potential-Customers/assets/135021827/a33c1e26-ac9e-4f84-bf66-4b7a8b5589f7">\
+
+**Confusion matrix on test set**
+
+
+
 
 
