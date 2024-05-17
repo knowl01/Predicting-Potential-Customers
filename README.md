@@ -58,8 +58,15 @@ These are the 3 different models I chose;
 4. Tuned Random Foest Model
 
 # Feature Importance
-   These are the important features form the tuned random forest model. 
-   <img width="755" alt="Imp_Features2" src="https://github.com/knowl01/Predicting-Potential-Customers/assets/135021827/d3e399c6-43a4-43d5-9c48-4aa2e0abd5c3">
+ These are the important features form the tuned random forest model. 
+
+**Precision Recall**
+
+<img width="656" alt="Precision_Recall2" src="https://github.com/knowl01/Predicting-Potential-Customers/assets/135021827/00c4c3b7-4447-49a8-9e93-9913c2a92e65">
+
+ **Important Features**
+ 
+<img width="755" alt="Imp_Features2" src="https://github.com/knowl01/Predicting-Potential-Customers/assets/135021827/d3e399c6-43a4-43d5-9c48-4aa2e0abd5c3">
 
    
 # Model Performance
