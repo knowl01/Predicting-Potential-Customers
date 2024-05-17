@@ -18,8 +18,11 @@ Classification and Hypothesis testing
 4. Preparing data for modelling
 
 # Code and resources used
+
 **Jupyter notebook**
+
 **Packages:** numpy, pandas, matplotlib, sklearn, seaborn, statsmodels
+
 **Sources:** FrOM MIT, Data Science and Machine Learning online course
 
 # Web Scraping
