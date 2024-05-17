@@ -33,6 +33,7 @@ Features included;
 
 # EDA 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are some of the highlights;
+
 **Statistics summary:**
 
 <img width="533" alt="Statistics2" src="https://github.com/knowl01/Predicting-Potential-Customers/assets/135021827/c49d74a8-1b52-49fc-8d87-6ec03774e67e">
