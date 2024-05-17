@@ -74,7 +74,7 @@ The Tuned Random Forest Model performed well compared to all the other models.
 
 **Confusion matrix on train set**
 
-<img width="453" alt="MAtrix_train2" src="https://github.com/knowl01/Predicting-Potential-Customers/assets/135021827/a33c1e26-ac9e-4f84-bf66-4b7a8b5589f7">\
+<img width="491" alt="Tuned_rf2" src="https://github.com/knowl01/Predicting-Potential-Customers/assets/135021827/f870ef09-e5a1-44af-bf15-c7eac7da8f56">
 
 
 
