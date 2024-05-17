@@ -2,6 +2,15 @@
 # Project Overview
 This project involves identifying which leads are more likely to convert to paid customers based on attributes of leads and their interaction details.
 
+# Course 
+Classification and Hypothesis testing
+
+**Skills and Tools covered**
+
+* Decision Trees
+* Random Forests
+* Hyperparameter tuning
+
 # Data Overview
 1. Missing value treatment
 2. Feature engineering
