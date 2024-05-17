@@ -23,7 +23,7 @@ Classification and Hypothesis testing
 
 **Packages:** numpy, pandas, matplotlib, sklearn, seaborn, statsmodels
 
-**Sources:** FrOM MIT, Data Science and Machine Learning online course
+**Sources:** From MIT; Data Science and Machine Learning online course
 
 # Web Scraping
 Features included;
